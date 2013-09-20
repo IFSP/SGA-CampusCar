@@ -1,0 +1,3 @@
+insert into papel values(6, 'Coordenador', 'Coordenador');
+insert into papel values(7, 'Coordenação de Apoio ao Ensino', 'CAE');
+insert into papel values(8, 'Gerência Educacional', 'GAE');

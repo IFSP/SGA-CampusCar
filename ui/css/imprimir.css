@@ -1,0 +1,162 @@
+/*
++----------------------------------------------+
+					reset
++----------------------------------------------+
+*/
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,textarea,p,blockquote,th,span, label, applet,object,iframe{
+	border:0;
+	outline:0;
+	margin:0;
+	padding:0
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { 
+	border:0;
+}
+
+
+
+body {
+	font-size:87.5%;
+	background-color:#fff;
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 100%;
+	/*line-height:1.6em;*/
+	text-align:center;
+}
+
+input{
+	font-family: corbel, liberation sans, georgia, lucida grande, sans-serif;
+	color:#333;
+	font-size:1em
+}
+
+#conteudo {
+	margin:0 0 0 10px;
+	padding:5px 0 10px 0;
+	float: left;
+	text-align: left;
+	width: 761px;
+}
+
+/*
++----------------------------------------------+
+					form
++----------------------------------------------+
+*/
+
+label, input{
+	display: block;
+	float: left;
+	right: 10px;
+}
+
+.campo{
+	width: 200px;
+	float: right;
+	right: 10px;
+}
+
+label {	
+	text-align: right;
+	width: 35px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	color:grey;
+}
+
+br {
+	clear: left;
+}
+
+/*
++----------------------------------------------+
+					dados pessoais
++----------------------------------------------+
+*/
+#dados-pessoais{
+	width: 761px;
+	float:left;
+	margin:10px 0 10px 0;
+}
+
+.dados-pess{
+	border:1px solid;
+}
+
+.rotulo{
+	font-weight:bold;
+	padding:0 5px;
+}
+
+.td-dados{
+	text-align:left;
+}
+
+#dados-pessoais label{
+margin: 0;
+padding: 0;
+outline: 0;
+border: 0 currentColor;
+border: 0;
+outline: 0;
+margin: 0;
+padding: 0;
+text-align: left;
+border-collapse: collapse;
+border-spacing: 0;
+font-size: 87.5%;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+text-align: center;
+width: 50px;
+text-align:left;
+}
+
+
+.raquo{
+	margin:0 5px;
+	}
+	
+	
+.campo-incentivo{
+	width:80px;
+}
+
+.campo-incentivo300{
+	width:300px;
+}
+
+.campo-incentivo-m{
+	width:55px;
+}
+
+.campo-incentivo-p{
+	width:20px;
+}
