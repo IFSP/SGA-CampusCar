@@ -19,7 +19,7 @@
 	define('DB_HOST', 'localhost');
 	define('DB_NAME', 'SGA');
 	define('DB_USER', 'postgres');
-	define('DB_PASS', 'root');
+	define('DB_PASS', '1234');
 	define('DB_PORT', 5432);
 	//Regras Nomenclatura
 	//Model - Classe ->  Classe.php
