@@ -5,17 +5,9 @@
 				<span class="linktop"></span>				
 
 				<ul>
+					<li><a href="/asp/professor"> ASP </a></li>
+					
 					<li><a href="/for/professor"> FOR </a></li>
-
-					<li><a href="#"> Segunda Op&ccedil;&#227;o </a></li>
-
-					<li><a href="#"> Terceira Op&ccedil;&#227;o </a></li>
-
-					<li><a href="#"> Quarta Op&ccedil;&#227;o </a></li>
-
-					<li><a href="#"> Quinta Op&ccedil;&#227;o </a></li>
-
-					<li><a href="#"> Sexta Op&ccedil;&#227;o </a></li>
 
 				</ul>				
 
